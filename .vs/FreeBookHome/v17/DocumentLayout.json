@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76A141AE-C107-4E83-A803-824723CEFD75}|FreeBookHome\\FreeBookHome.csproj|c:\\users\\dootmario\\source\\repos\\freebookhome\\freebookhome\\creazacontfreebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76A141AE-C107-4E83-A803-824723CEFD75}|FreeBookHome\\FreeBookHome.csproj|solutionrelative:freebookhome\\creazacontfreebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76A141AE-C107-4E83-A803-824723CEFD75}|FreeBookHome\\FreeBookHome.csproj|C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\freebookhome\\freebookhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76A141AE-C107-4E83-A803-824723CEFD75}|FreeBookHome\\FreeBookHome.csproj|solutionrelative:freebookhome\\freebookhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A141AE-C107-4E83-A803-824723CEFD75}|FreeBookHome\\FreeBookHome.csproj|C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\freebookhome\\freebookhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76A141AE-C107-4E83-A803-824723CEFD75}|FreeBookHome\\FreeBookHome.csproj|solutionrelative:freebookhome\\freebookhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76A141AE-C107-4E83-A803-824723CEFD75}|FreeBookHome\\FreeBookHome.csproj|C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\freebookhome\\logarefreebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76A141AE-C107-4E83-A803-824723CEFD75}|FreeBookHome\\FreeBookHome.csproj|solutionrelative:freebookhome\\logarefreebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A141AE-C107-4E83-A803-824723CEFD75}|FreeBookHome\\FreeBookHome.csproj|c:\\users\\dootmario\\source\\repos\\freebookhome\\freebookhome\\creazacontfreebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76A141AE-C107-4E83-A803-824723CEFD75}|FreeBookHome\\FreeBookHome.csproj|solutionrelative:freebookhome\\creazacontfreebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76A141AE-C107-4E83-A803-824723CEFD75}|FreeBookHome\\FreeBookHome.csproj|C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\freebookhome\\logarefreebook.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{76A141AE-C107-4E83-A803-824723CEFD75}|FreeBookHome\\FreeBookHome.csproj|C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\freebookhome\\creazacontfreebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{76A141AE-C107-4E83-A803-824723CEFD75}|FreeBookHome\\FreeBookHome.csproj|solutionrelative:freebookhome\\creazacontfreebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76A141AE-C107-4E83-A803-824723CEFD75}|FreeBookHome\\FreeBookHome.csproj|C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\freebookhome\\freebookhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{76A141AE-C107-4E83-A803-824723CEFD75}|FreeBookHome\\FreeBookHome.csproj|solutionrelative:freebookhome\\freebookhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76A141AE-C107-4E83-A803-824723CEFD75}|FreeBookHome\\FreeBookHome.csproj|C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\freebookhome\\freebookhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76A141AE-C107-4E83-A803-824723CEFD75}|FreeBookHome\\FreeBookHome.csproj|solutionrelative:freebookhome\\freebookhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "LogareFreeBook.Designer.cs",
               "DocumentMoniker": "C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\FreeBookHome\\LogareFreeBook.Designer.cs",
               "RelativeDocumentMoniker": "FreeBookHome\\LogareFreeBook.Designer.cs",
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LogareFreeBook.cs",
               "DocumentMoniker": "C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\FreeBookHome\\LogareFreeBook.cs",
               "RelativeDocumentMoniker": "FreeBookHome\\LogareFreeBook.cs",
@@ -68,20 +68,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CreazaContFreeBook.cs",
               "DocumentMoniker": "C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\FreeBookHome\\CreazaContFreeBook.cs",
               "RelativeDocumentMoniker": "FreeBookHome\\CreazaContFreeBook.cs",
               "ToolTip": "C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\FreeBookHome\\CreazaContFreeBook.cs",
               "RelativeToolTip": "FreeBookHome\\CreazaContFreeBook.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-10T10:55:21.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "FreeBookHome.cs",
               "DocumentMoniker": "C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\FreeBookHome\\FreeBookHome.cs",
               "RelativeDocumentMoniker": "FreeBookHome\\FreeBookHome.cs",
@@ -89,22 +89,24 @@
               "RelativeToolTip": "FreeBookHome\\FreeBookHome.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAQwBoAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T10:53:28.922Z"
+              "WhenOpened": "2024-03-10T10:53:28.922Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "FreeBookHome.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\FreeBookHome\\FreeBookHome.cs",
               "RelativeDocumentMoniker": "FreeBookHome\\FreeBookHome.cs",
               "ToolTip": "C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\FreeBookHome\\FreeBookHome.cs [Design]",
               "RelativeToolTip": "FreeBookHome\\FreeBookHome.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T07:55:11.769Z"
+              "WhenOpened": "2024-03-10T07:55:11.769Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "CreazaContFreeBook.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\FreeBookHome\\CreazaContFreeBook.cs",
               "RelativeDocumentMoniker": "FreeBookHome\\CreazaContFreeBook.cs",
@@ -115,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "LogareFreeBook.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\FreeBookHome\\LogareFreeBook.cs",
               "RelativeDocumentMoniker": "FreeBookHome\\LogareFreeBook.cs",
