@@ -79,6 +79,12 @@
     <Compile Include="FreeBookHome.Designer.cs">
       <DependentUpon>FreeBookHome.cs</DependentUpon>
     </Compile>
+    <Compile Include="MeniuFreeBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MeniuFreeBook.Designer.cs">
+      <DependentUpon>MeniuFreeBook.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="CreazaContFreeBook.resx">

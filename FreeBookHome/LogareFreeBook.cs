@@ -16,6 +16,13 @@ namespace FreeBookHome
         {
             InitializeComponent();
         }
+        private void GoToMain(object sender, EventArgs e)
+        {
 
+            MeniuFreeBook Menu = new MeniuFreeBook();
+            Menu.Show();
+            this.Close();
+
+        }
     }
 }

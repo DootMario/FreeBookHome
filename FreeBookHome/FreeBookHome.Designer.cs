@@ -39,7 +39,8 @@ namespace FreeBookHome
             // 
             // textBoxLogin
             // 
-            this.textBoxLogin.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
+            this.textBoxLogin.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.textBoxLogin.Location = new System.Drawing.Point(141, 240);
             this.textBoxLogin.Multiline = true;
@@ -52,7 +53,7 @@ namespace FreeBookHome
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(276, 12);
+            this.pictureBox1.Location = new System.Drawing.Point(281, 12);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(228, 205);
             this.pictureBox1.TabIndex = 2;
@@ -66,7 +67,7 @@ namespace FreeBookHome
             this.button1.TabIndex = 3;
             this.button1.Text = "Logare";
             this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.goToLogin);
+            this.button1.Click += new System.EventHandler(this.GoToLogin);
             // 
             // button2
             // 
@@ -76,7 +77,7 @@ namespace FreeBookHome
             this.button2.TabIndex = 4;
             this.button2.Text = "Inregistrare";
             this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.goToSignUp);
+            this.button2.Click += new System.EventHandler(this.GoToSignUp);
             // 
             // FreeBookHome
             // 
@@ -89,7 +90,7 @@ namespace FreeBookHome
             this.Controls.Add(this.textBoxLogin);
             this.Name = "FreeBookHome";
             this.Tag = "\';lknb ";
-            this.Text = "\\][po087/ ";
+            this.Text = "FreeBookHome";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

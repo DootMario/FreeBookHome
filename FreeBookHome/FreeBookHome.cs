@@ -17,14 +17,14 @@ namespace FreeBookHome
             InitializeComponent();
         }
 
-        private void goToSignUp(object sender, EventArgs e)
+        private void GoToSignUp(object sender, EventArgs e)
         {
             CreazaContFreeBook SignUp = new CreazaContFreeBook();
             SignUp.Show();
             this.Hide();
         }
 
-        private void goToLogin(object sender, EventArgs e)
+        private void GoToLogin(object sender, EventArgs e)
         {
             LogareFreeBook Login = new LogareFreeBook();
             Login.Show();
