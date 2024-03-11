@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76A141AE-C107-4E83-A803-824723CEFD75}|FreeBookHome\\FreeBookHome.csproj|c:\\users\\dootmario\\source\\repos\\freebookhome\\freebookhome\\creazacontfreebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76A141AE-C107-4E83-A803-824723CEFD75}|FreeBookHome\\FreeBookHome.csproj|solutionrelative:freebookhome\\creazacontfreebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A141AE-C107-4E83-A803-824723CEFD75}|FreeBookHome\\FreeBookHome.csproj|C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\freebookhome\\logarefreebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76A141AE-C107-4E83-A803-824723CEFD75}|FreeBookHome\\FreeBookHome.csproj|solutionrelative:freebookhome\\logarefreebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A141AE-C107-4E83-A803-824723CEFD75}|FreeBookHome\\FreeBookHome.csproj|C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\freebookhome\\logarefreebook.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76A141AE-C107-4E83-A803-824723CEFD75}|FreeBookHome\\FreeBookHome.csproj|solutionrelative:freebookhome\\logarefreebook.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A141AE-C107-4E83-A803-824723CEFD75}|FreeBookHome\\FreeBookHome.csproj|C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\freebookhome\\logarefreebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76A141AE-C107-4E83-A803-824723CEFD75}|FreeBookHome\\FreeBookHome.csproj|solutionrelative:freebookhome\\logarefreebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A141AE-C107-4E83-A803-824723CEFD75}|FreeBookHome\\FreeBookHome.csproj|C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\freebookhome\\creazacontfreebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76A141AE-C107-4E83-A803-824723CEFD75}|FreeBookHome\\FreeBookHome.csproj|solutionrelative:freebookhome\\creazacontfreebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A141AE-C107-4E83-A803-824723CEFD75}|FreeBookHome\\FreeBookHome.csproj|C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\freebookhome\\freebookhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76A141AE-C107-4E83-A803-824723CEFD75}|FreeBookHome\\FreeBookHome.csproj|solutionrelative:freebookhome\\freebookhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A141AE-C107-4E83-A803-824723CEFD75}|FreeBookHome\\FreeBookHome.csproj|C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\freebookhome\\freebookhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76A141AE-C107-4E83-A803-824723CEFD75}|FreeBookHome\\FreeBookHome.csproj|solutionrelative:freebookhome\\freebookhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogareFreeBook.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\FreeBookHome\\LogareFreeBook.Designer.cs",
+              "RelativeDocumentMoniker": "FreeBookHome\\LogareFreeBook.Designer.cs",
+              "ToolTip": "C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\FreeBookHome\\LogareFreeBook.Designer.cs",
+              "RelativeToolTip": "FreeBookHome\\LogareFreeBook.Designer.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAwwE0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T11:15:35.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogareFreeBook.cs",
+              "DocumentMoniker": "C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\FreeBookHome\\LogareFreeBook.cs",
+              "RelativeDocumentMoniker": "FreeBookHome\\LogareFreeBook.cs",
+              "ToolTip": "C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\FreeBookHome\\LogareFreeBook.cs",
+              "RelativeToolTip": "FreeBookHome\\LogareFreeBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T11:15:17.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreazaContFreeBook.cs",
+              "DocumentMoniker": "C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\FreeBookHome\\CreazaContFreeBook.cs",
+              "RelativeDocumentMoniker": "FreeBookHome\\CreazaContFreeBook.cs",
+              "ToolTip": "C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\FreeBookHome\\CreazaContFreeBook.cs",
+              "RelativeToolTip": "FreeBookHome\\CreazaContFreeBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T10:55:21.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FreeBookHome.cs",
+              "DocumentMoniker": "C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\FreeBookHome\\FreeBookHome.cs",
+              "RelativeDocumentMoniker": "FreeBookHome\\FreeBookHome.cs",
+              "ToolTip": "C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\FreeBookHome\\FreeBookHome.cs",
+              "RelativeToolTip": "FreeBookHome\\FreeBookHome.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T10:53:28.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FreeBookHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\FreeBookHome\\FreeBookHome.cs",
+              "RelativeDocumentMoniker": "FreeBookHome\\FreeBookHome.cs",
+              "ToolTip": "C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\FreeBookHome\\FreeBookHome.cs [Design]",
+              "RelativeToolTip": "FreeBookHome\\FreeBookHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T07:55:11.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreazaContFreeBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\FreeBookHome\\CreazaContFreeBook.cs",
+              "RelativeDocumentMoniker": "FreeBookHome\\CreazaContFreeBook.cs",
+              "ToolTip": "C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\FreeBookHome\\CreazaContFreeBook.cs [Design]",
+              "RelativeToolTip": "FreeBookHome\\CreazaContFreeBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T07:55:05.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogareFreeBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\FreeBookHome\\LogareFreeBook.cs",
+              "RelativeDocumentMoniker": "FreeBookHome\\LogareFreeBook.cs",
+              "ToolTip": "C:\\Users\\DootMario\\source\\repos\\FreeBookHome\\FreeBookHome\\LogareFreeBook.cs [Design]",
+              "RelativeToolTip": "FreeBookHome\\LogareFreeBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T07:54:35.812Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
