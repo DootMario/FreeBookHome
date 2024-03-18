@@ -103,6 +103,9 @@
     <EmbeddedResource Include="LogareFreeBook.resx">
       <DependentUpon>LogareFreeBook.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="MeniuFreeBook.resx">
+      <DependentUpon>MeniuFreeBook.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <SubType>Designer</SubType>

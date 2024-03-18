@@ -26,3 +26,4 @@ C:\Users\DootMario\source\repos\FreeBookHome\FreeBookHome\bin\Debug\FreeBookHome
 C:\Users\DootMario\source\repos\FreeBookHome\FreeBookHome\bin\Debug\FreeBookHome.pdb
 C:\Users\elev\Source\Repos\FreeBookHome\FreeBookHome\bin\Debug\FreeBook.mdf
 C:\Users\elev\Source\Repos\FreeBookHome\FreeBookHome\bin\Debug\FreeBook_log.ldf
+C:\Users\DootMario\source\repos\FreeBookHome\FreeBookHome\obj\Debug\FreeBookHome.MeniuFreeBook.resources
