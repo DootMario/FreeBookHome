@@ -1,0 +1,14 @@
+C:\Users\DootMario\source\repos\FreeBookHome\FreeBookHome\bin\Release\FreeBook.mdf
+C:\Users\DootMario\source\repos\FreeBookHome\FreeBookHome\bin\Release\FreeBook_log.ldf
+C:\Users\DootMario\source\repos\FreeBookHome\FreeBookHome\bin\Release\FreeBookHome.exe.config
+C:\Users\DootMario\source\repos\FreeBookHome\FreeBookHome\bin\Release\FreeBookHome.exe
+C:\Users\DootMario\source\repos\FreeBookHome\FreeBookHome\bin\Release\FreeBookHome.pdb
+C:\Users\DootMario\source\repos\FreeBookHome\FreeBookHome\obj\Release\FreeBookHome.csproj.AssemblyReference.cache
+C:\Users\DootMario\source\repos\FreeBookHome\FreeBookHome\obj\Release\FreeBookHome.CreazaContFreeBook.resources
+C:\Users\DootMario\source\repos\FreeBookHome\FreeBookHome\obj\Release\FreeBookHome.FreeBookHome.resources
+C:\Users\DootMario\source\repos\FreeBookHome\FreeBookHome\obj\Release\FreeBookHome.LogareFreeBook.resources
+C:\Users\DootMario\source\repos\FreeBookHome\FreeBookHome\obj\Release\FreeBookHome.Properties.Resources.resources
+C:\Users\DootMario\source\repos\FreeBookHome\FreeBookHome\obj\Release\FreeBookHome.csproj.GenerateResource.cache
+C:\Users\DootMario\source\repos\FreeBookHome\FreeBookHome\obj\Release\FreeBookHome.csproj.CoreCompileInputs.cache
+C:\Users\DootMario\source\repos\FreeBookHome\FreeBookHome\obj\Release\FreeBookHome.exe
+C:\Users\DootMario\source\repos\FreeBookHome\FreeBookHome\obj\Release\FreeBookHome.pdb

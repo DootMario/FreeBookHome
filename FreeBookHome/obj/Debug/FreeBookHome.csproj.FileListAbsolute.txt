@@ -24,3 +24,5 @@ C:\Users\DootMario\source\repos\FreeBookHome\FreeBookHome\bin\Debug\FreeBook_log
 C:\Users\DootMario\source\repos\FreeBookHome\FreeBookHome\bin\Debug\FreeBookHome.exe.config
 C:\Users\DootMario\source\repos\FreeBookHome\FreeBookHome\bin\Debug\FreeBookHome.exe
 C:\Users\DootMario\source\repos\FreeBookHome\FreeBookHome\bin\Debug\FreeBookHome.pdb
+C:\Users\elev\Source\Repos\FreeBookHome\FreeBookHome\bin\Debug\FreeBook.mdf
+C:\Users\elev\Source\Repos\FreeBookHome\FreeBookHome\bin\Debug\FreeBook_log.ldf
